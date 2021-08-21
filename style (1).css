@@ -1,0 +1,39 @@
+body{
+     
+    font-family: 'Raleway', sans-serif;
+    background-color: rgb(252, 253, 239);
+}
+
+.header_div
+{
+background:rgb(203, 252, 248);
+color: black; 
+}
+
+.header_div p{
+    font-family: 'STIX Two Text', serif;
+    color: navy;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'STIX Two Text', serif;
+    color:black;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rgb(255, 255, 255);
+    bottom:0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(252, 203, 230);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(137, 47, 255);
+}
